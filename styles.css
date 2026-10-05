@@ -46,7 +46,7 @@ img { display: block; max-width: 100%; }
   align-self: flex-end; margin-right: 130px; background: rgba(240,235,248,0.92); color: #a9a0c2; font-size: 0.9rem; padding: 6px 10px; font-weight: 700;
 }
 .official-logo {
-  margin-top: 8px; width: 340px; max-width: 70vw; filter: drop-shadow(0 8px 18px rgba(0,0,0,0.3));
+  margin-top: 8px; width: 340px; height: auto; max-width: 70vw; filter: drop-shadow(0 8px 18px rgba(0,0,0,0.3));
 }
 .hero h1 {
   margin-top: 26px; font-size: clamp(4rem, 7vw, 6.3rem); line-height: 0.98; letter-spacing: 0.06em; text-transform: uppercase; font-weight: 800;
